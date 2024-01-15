@@ -10,6 +10,13 @@ Amenities:Easily identify amenities offered by the air bnb
 Detailed Information:To view detailed information about the air bnb including it's name, type (if it's shared or private room) and other brief information. 
 
 
+## Description of the command interpreter:
+  ## how to start it
+
+  ## how to use it
+  
+  ## examples
+
 ## Authors
 Joy Offere <j.offere@alustudent.com>
 Shaday Sine <s.sine@alustudent.com>
