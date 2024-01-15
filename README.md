@@ -1,5 +1,5 @@
 # alu-AirBnB_clone
-<img width \="300" alt="2024-15-01" src="air-bnb.png" >
+<img width ="300" alt="2024-15-01" src="air-bnb.png" >
 
 ## Project Description
 
