@@ -1,4 +1,6 @@
 # alu-AirBnB_clone
+<img width \="300" alt="2024-15-01" src="air-bnb.png" >
+
 ## Project Description
 
 This Air Bnb web application is designed to help the users to find available Air bnb listings in their desired location and amenities offered by each listing 
