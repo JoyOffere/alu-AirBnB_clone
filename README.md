@@ -13,9 +13,9 @@ Detailed Information:To view detailed information about the air bnb including it
 ## Description of the command interpreter:
   ## how to start it
   To start the command interpreter do these;
-  
+##  
 $ ./console.py
-
+##
   ## how to use it
   The commmand interpreter supports various commands. This is an example 
   
