@@ -61,7 +61,7 @@ article {
 .max_guest {
     width: 100px;
     padding-top: 60px;
-    background: url(C:\Users\Sine\Documents\alu-AirBnB_clone\alu-AirBnB_clone\web_static\images\group_icon.png) no-repeat;
+    background: url(/web_static/images/group_icon.png) no-repeat;
     background-position: center center;
     text-align: center;
 }
@@ -69,7 +69,7 @@ article {
 .number_rooms {
     width: 100px;
     padding-top: 60px;
-    background: url(C:\Users\Sine\Documents\alu-AirBnB_clone\alu-AirBnB_clone\web_static\images\bed_icon.png) no-repeat;
+    background: url(/web_static/images/bed_icon.png)) no-repeat;
     background-position: center center;
     text-align: center;
 }
